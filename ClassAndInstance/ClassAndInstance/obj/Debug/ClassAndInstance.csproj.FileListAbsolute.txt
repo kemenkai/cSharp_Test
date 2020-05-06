@@ -1,0 +1,7 @@
+C:\Users\柯孟凯\source\ClassAndInstance\ClassAndInstance\bin\Debug\ClassAndInstance.exe.config
+C:\Users\柯孟凯\source\ClassAndInstance\ClassAndInstance\bin\Debug\ClassAndInstance.exe
+C:\Users\柯孟凯\source\ClassAndInstance\ClassAndInstance\bin\Debug\ClassAndInstance.pdb
+C:\Users\柯孟凯\source\ClassAndInstance\ClassAndInstance\obj\Debug\ClassAndInstance.csprojAssemblyReference.cache
+C:\Users\柯孟凯\source\ClassAndInstance\ClassAndInstance\obj\Debug\ClassAndInstance.csproj.CoreCompileInputs.cache
+C:\Users\柯孟凯\source\ClassAndInstance\ClassAndInstance\obj\Debug\ClassAndInstance.exe
+C:\Users\柯孟凯\source\ClassAndInstance\ClassAndInstance\obj\Debug\ClassAndInstance.pdb
