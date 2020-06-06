@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\柯孟凯\\source\\HelloWorld\\HelloWorld2\\HelloWorld2.csproj",
+      "projectUniqueName": "C:\\Users\\柯孟凯\\Documents\\GitHub\\CSharp_Test\\HelloWorld\\HelloWorld2\\HelloWorld2.csproj",
       "projectName": "HelloWorld2",
-      "projectPath": "C:\\Users\\柯孟凯\\source\\HelloWorld\\HelloWorld2\\HelloWorld2.csproj",
+      "projectPath": "C:\\Users\\柯孟凯\\Documents\\GitHub\\CSharp_Test\\HelloWorld\\HelloWorld2\\HelloWorld2.csproj",
       "packagesPath": "C:\\Users\\柯孟凯\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\柯孟凯\\source\\HelloWorld\\HelloWorld2\\obj\\",
+      "outputPath": "C:\\Users\\柯孟凯\\Documents\\GitHub\\CSharp_Test\\HelloWorld\\HelloWorld2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

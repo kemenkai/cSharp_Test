@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "汉诺塔递归", "汉诺塔递归.csproj", "{4DEC60A4-B868-40E6-8050-334A68AE925C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DEC60A4-B868-40E6-8050-334A68AE925C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DEC60A4-B868-40E6-8050-334A68AE925C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DEC60A4-B868-40E6-8050-334A68AE925C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DEC60A4-B868-40E6-8050-334A68AE925C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAEE9422-B710-4248-AAE7-478FEBCFC173}
+	EndGlobalSection
+EndGlobal
